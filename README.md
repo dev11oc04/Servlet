@@ -30,3 +30,4 @@ The calculator supports keyboard input, which includes the following keys:
 6. Escape (to clear the display)
 6. Conclusion
 Mishra's Calculator is a simple, yet functional web-based calculator that allows users to perform basic arithmetic calculations while also storing and managing the results in a history. The memory functionality further enhances its usability, and error handling ensures that users are notified of any issues with their input.
+https://screenrec.com/share/F2Hjwusf8i --- my project link for the calculator app
